@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  min-height: 100%;
+}
+body {
+  background-image: url(./static/images/christmas_night.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  font-family: "Roboto";
+  color: $primary-color;
+  text-align: center;
+}
