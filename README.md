@@ -2,7 +2,7 @@
 
 > A very simple seed to start a modern Single Page App development in no time
 
-Firt use:
+First use:
 - npm install
 - npm start
 
@@ -18,7 +18,9 @@ If needed, you can uncomment bootstrap + jquery mention in
 - style.scss
 - profit?
   
-If you don't need them at all, you can remove thoses comments, then package.json
+If you don't need them at all, you can remove thoses comments.
+
+Then in package.json
   - remove deps
     - popper.js
     - bootstrap
