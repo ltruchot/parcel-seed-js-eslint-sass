@@ -13,13 +13,11 @@ Before final deploy:
 - npm run build
 - profit?
 
-If needed, you can uncomment bootstrap + jquery mention in
+If needed, you can uncomment `bootstrap` + `jquery` imports in
 - script.js
 - style.scss
-- profit?
   
-If you don't need them at all, you can remove thoses comments.
-Then in package.json
+If you don't need them at all, you can remove thoses comments. Then in `package.json`:
   - remove deps
     - popper.js
     - bootstrap
