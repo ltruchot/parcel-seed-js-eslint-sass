@@ -17,8 +17,8 @@ Before final deploy:
 
 ## ESlint
 
-To fully beneficiate of ESlint, please
-- insall the official VSCode "ESlint" extension
+To fully enjoy ESlint, please
+- install the official VSCode "ESlint" extension
 - add this to your VSCode settings:
 ```json
   //...
