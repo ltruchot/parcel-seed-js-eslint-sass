@@ -19,7 +19,6 @@ If needed, you can uncomment bootstrap + jquery mention in
 - profit?
   
 If you don't need them at all, you can remove thoses comments.
-
 Then in package.json
   - remove deps
     - popper.js
