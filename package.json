@@ -4,16 +4,17 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.1",
-    "bootstrap": "^4.5.3",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "bootstrap": "4.5.3",
+    "jquery": "3.5.1",
+    "popper.js": "1.16.1"
   },
   "devDependencies": {
     "eslint": "7.14.0",
