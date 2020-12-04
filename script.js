@@ -1,12 +1,9 @@
 import './styles.scss';
 
-// eslint-disable-next-line import/no-unresolved
-import images from './static/images/*.*';
-
 // import $ from 'jquery';
 // import 'bootstrap';
 // $('body').append('jquery + bootstrap works!');
 const app = document.getElementById('app');
-app.innerHTML += `<img src="${images.kitten.jpg}" style="width:100px;" />`;
-// or
+
+// every files in "static" folder can be used directly like that
 app.innerHTML += '<img src="images/kitten.jpg" style="width:100px;" />';
