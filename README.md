@@ -28,7 +28,7 @@ To fully enjoy ESlint, please
   //...
 ```
 
-## FontAwesome and Taiwind for quick POCs 
+## FontAwesome and Tailwind for quick POCs 
 
 `@fortawesome/fontawesome-free` and `tailwindcss` are in the seed
 
