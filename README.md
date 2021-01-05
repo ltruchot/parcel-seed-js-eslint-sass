@@ -37,4 +37,4 @@ If you don't need it at all,
 - in`package.json`, remove deps
     - tailwindcss
     - @fortawesome/fontawesome-free
-- in `./styles.scss`
+- in `./styles.scss`, remove imports
