@@ -20,6 +20,5 @@ module.exports = {
     'no-plusplus': 'off',
     'no-loop-func': 'off',
     'import/prefer-default-export': 'off',
-    'react/jsx-filename-extension': 'off',
   },
 };

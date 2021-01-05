@@ -1,8 +1,18 @@
 /* dependencies */
 @import "@fortawesome/fontawesome-free/css/all.css";
-// @import "~bootstrap/scss/bootstrap";
+@import "tailwindcss/dist/tailwind.min.css";
 
 /* local imports */
 @import "./styles/variables";
 @import "./styles/fonts";
 @import "./styles/base";
+
+body {
+  background-image: url(./static/images/christmas_night.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: "Roboto";
+  color: $primary-color;
+  text-align: center;
+}

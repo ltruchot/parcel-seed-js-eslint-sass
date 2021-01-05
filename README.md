@@ -28,14 +28,13 @@ To fully enjoy ESlint, please
   //...
 ```
 
-## JQuery and Bootsrap for quick POCs 
+## FontAwesome and Taiwind for quick POCs 
 
-If needed, you can uncomment `bootstrap` + `jquery` imports in
-- script.js
-- style.scss
+`@fortawesome/fontawesome-free` and `tailwindcss` are in the seed
+
   
-If you don't need them at all, you can remove thoses comments. Then in `package.json`:
-  - remove deps
-    - popper.js
-    - bootstrap
-    - jquery
+If you don't need it at all, 
+- in`package.json`, remove deps
+    - tailwindcss
+    - @fortawesome/fontawesome-free
+- in `./styles.scss`
