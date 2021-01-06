@@ -4,6 +4,13 @@
 > 
 ## how to use
 
+Clone, clean and rename
+- git clone https://github.com/ltruchot/parcel-seed-js-eslint-sass.git
+- mv parcel-seed-js-eslint-sass my-project
+- cd my-project
+- rm -rf .git
+- git init
+
 First use:
 - npm install
 - npm start
